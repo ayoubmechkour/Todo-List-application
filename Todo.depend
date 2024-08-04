@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722780827 source:c:\users\ayoub\desktop\todo\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
